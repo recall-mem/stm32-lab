@@ -21,13 +21,8 @@ The driver is written for **STM32F1** family microcontrollers, but can be easily
 
 ## Files
 
-bme280.c
+bme280.c, bme280.h, i2c.c, i2c.h, main.c
 
 # Demo
 
 https://youtu.be/631S0D0caCI
-bme280.h
-i2c.c
-i2c.h
-
-main.c
